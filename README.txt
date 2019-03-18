@@ -1,2 +1,19 @@
-Programa compilado em m·quina 64bits, o programa da pasta sÛ funciona em 64bits.
-Para utilizar em m·quina 32bits È necess·rio compilar o arquivo novamente em uma m·quina 32bits.
+# Chamado Desktop
+
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
+![alt text](https://uploaddeimagens.com.br/images/001/967/458/original/2.png "tela")
+
+Sistema de chamado desenvolvido em linguagem C para armazenamento dos atendimentos em um bloco de notas.
+
+## Vers√£o dispon√≠vel
+
+<img src="https://codingtech.com.br/images/logo.png" width="120" height="120" />
+
+| ARQUIVO |
+| --- |
+| <img src="https://uploaddeimagens.com.br/images/001/967/460/original/3.png" width="410" height="250" />
+
+## Observa√ß√£o
+Programa compilado em m√°quina 64bits, o programa s√≥ funciona em 64bits.
+Para utilizar em m√°quina 32bits √© necess√°rio compilar o arquivo novamente em uma m√°quina 32bits.
