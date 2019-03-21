@@ -10,10 +10,13 @@ Sistema de chamado desenvolvido em linguagem C para armazenamento dos atendiment
 
 <img src="https://codingtech.com.br/images/logo.png" width="120" height="120" />
 
+## Mais telas
+
 | ARQUIVO |
 | --- |
 | <img src="https://uploaddeimagens.com.br/images/001/967/460/original/3.png" width="410" height="250" />
 
 ## Observação
+
 Programa compilado em máquina 64bits, o programa só funciona em 64bits.
 Para utilizar em máquina 32bits é necessário compilar o arquivo novamente em uma máquina 32bits.
