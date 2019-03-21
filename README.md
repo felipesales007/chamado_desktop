@@ -8,7 +8,7 @@ Sistema de chamado desenvolvido em linguagem C para armazenamento dos atendiment
 
 ## Versão disponível
 
-<img src="https://codingtech.com.br/images/logo.png" width="120" height="120" />
+<img src="https://codingtech.com.br/images/logo.png" width="100" height="100" />
 
 ## Mais telas
 
